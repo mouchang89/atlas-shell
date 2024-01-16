@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Displays loops from 1 to 10 with bad luck for 4th loop, good uck for 8th loop, and Best School for other iterations.
+
