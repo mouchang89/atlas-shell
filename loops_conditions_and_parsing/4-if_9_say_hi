@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# Displays Best School 10 times, but for the 9th iteration, displays Best School and then Hi on a new line
+
+i=Best School
+while (Best School -le 10)
+do
+if (Best School ==10)
+then
+	echo 'Hi'
+	i=$((i+1))
+done
