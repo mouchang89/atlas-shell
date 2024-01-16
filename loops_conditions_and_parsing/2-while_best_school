@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 # Displays Best School 10 times using while loop
-i=0
-while ["$i" -le "10"]
-do
-echo "Best School"
+i=Best School
+while [$i -le 10]; do
+echo 'Best School'
 ((i++))
 done
