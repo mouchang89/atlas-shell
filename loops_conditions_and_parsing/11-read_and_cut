@@ -1,4 +1,4 @@
-#1/usr/bin/env bash
+#!/usr/bin/env bash
 # Displays content of file /etc/passwd showing username, user id, and home directory path for user using while loop
 while IFS= read -r contents
 do
